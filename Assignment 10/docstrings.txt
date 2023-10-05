@@ -1,0 +1,14 @@
+Help on module functions:
+
+NAME
+    functions - Contains functions car_dict and num_sum
+
+FUNCTIONS
+    car_dict(Model, Make, Color='Unknown', Trailer='No')
+        Takes attributes: (Model, Make, Color, and Trailer) with Model and Make being required, and creates a car dictionary. At the end returns said dictionary as "car".
+
+    num_sum(num1, num2=3.141592653589793)
+        Takes two numbers and finds the sum. Returns the sum and a list of given numbers. If not given a second number will use Pi.
+
+FILE
+    c:\users\arcti\documents\python\functions\functions.py
